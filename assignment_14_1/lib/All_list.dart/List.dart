@@ -1,0 +1,146 @@
+final List quotesCategory = [
+  'Teachers \n Quotes',
+  'Gratitude \n Quotes',
+  'Political \n Quotes',
+  'Wisdom \n Quotes',
+];
+
+// final List cate = [
+//   "HappyNess Quotes",
+//   "Success Quotes",
+//   "Love Quotes",
+//   "Life Quotes",
+//   "Motivational Quotes",
+//   "Sad Quotes",
+//   "Albert Einstein Quotes",
+//   "Swami Vivekanand Quotes",
+//   "Helen Keller Quotes",
+//   "Dr. Seuss Quotes",
+//   'Inspirational Quotes',
+//   'Friendship Quotes',
+//   'Funny Quotes',
+//   'Success Quotes',
+//   'Thoughtful Quotes',
+//   'Wisdom Quotes',
+//   'Baby Quotes ',
+//   'Accomplishment Quotes',
+// ];
+
+// final List shortListName = [
+//   'HQ',
+//   'SQ',
+//   'LQ',
+//   'LQ',
+//   'MQ',
+//   'SQ',
+//   'AEQ',
+//   'SVQ',
+//   'HKQ',
+//   'SQ',
+//   'IQ',
+//   'FQ',
+//   'FQ',
+//   'SQ',
+//   'TQ',
+//   'WQ',
+//   'BQ',
+//   'AQ',
+// ];
+
+// final List QuotesList = [
+//   'If you doubt you can accomplish something, then you can’t accomplish it. You have to have confidence in your ability, and then be tough enough to follow through…',
+//   'Natural ability without education has more often raised a man to glory and virtue than education without natural ability…',
+//   "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try…",
+//   "The disillusionment with our own abilities is, perhaps, one of the most important things that can ever happen to us…",
+//   "You measure the size of the accomplishment by the obstacles you had to overcome to reach your goals…",
+//   "If you doubt you can accomplish something, then you can’t accomplish it. You have to have confidence in your ability, and then be tough enough to follow through…",
+//   "Accomplish but do not boast, accomplish without show, accomplish without arrogance, accomplish without grabbing, accomplish without forcing…",
+//   "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things…",
+//   "Nothing builds self-esteem and self-confidence like accomplishment…",
+//   "Nothing stops the man who desires to achieve. Every obstacle is simply a course to develop his achievement muscle. It’s a strengthening of his powers of accomplishment…",
+//   "You can accomplish anything you put your mind to, all is takes is time, patience and determination…",
+//   "One of the greatest accomplishments in any persons life is if he can trust someone other than him wholeheartedly and sustain it faithfully all throughout his life. That is a perfect example of the real success…",
+//   "Nothing splendid was ever created in cold blood. Heat is required to forge anything. Every great accomplishment is the story of a flaming heart…",
+//   "Life is an accomplishment and each moment has a meaning and you must use it…",
+//   "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements…",
+//   "What we achieve inwardly will change outer reality…",
+//   "Freedom is an internal achievement rather than an external adjustment…",
+//   "The roots of true achievement lie in the will to become the best that you can become…",
+// ];
+
+List<bool> favorite = [
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+];
+
+List<bool> done = [
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+];
+List<bool> copy = [
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+];
+
+bool finalFavorite = true;
+bool finalCopy = true;
+
+// ignore: non_constant_identifier_names
+List QuotesSlider = [
+  "What we achieve inwardly will change outer reality…",
+  "Freedom is an internal achievement rather than an external adjustment…",
+  "The roots of true achievement lie in the will to become the best that you can become…",
+  "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try…",
+  "The disillusionment with our own abilities is, perhaps, one of the most important things that can ever happen to us…",
+  "You measure the size of the accomplishment by the obstacles you had to overcome to reach your goals…",
+];
+
+List iinn = [1, 2, 3, 4, 5, 6];

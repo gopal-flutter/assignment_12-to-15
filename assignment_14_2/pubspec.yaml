@@ -1,0 +1,63 @@
+name: assignment_14_2
+description: A new Flutter application.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  font_awesome_flutter: ^8.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/image/1.jpg
+    - assets/image/bi.jpg
+    - assets/image/fish.png
+    - assets/image/mm.jpg
+    - assets/image/rep.jpg
+    - assets/image/11.jpg
+    - assets/image/12.jpg
+    - assets/image/13.jpg
+    - assets/image/14.jpg
+    - assets/image/15.jpg
+    - assets/image/21.jpg
+    - assets/image/22.jpg
+    - assets/image/23.jpg
+    - assets/image/24.jpg
+    - assets/image/31.jpg
+    - assets/image/32.jpg
+    - assets/image/33.jpg
+    - assets/image/34.jpg
+    - assets/image/35.jpg
+    - assets/image/41.jpg
+    - assets/image/42.jpg
+    - assets/image/43.jpg
+    - assets/image/44.jpg
+
+  # example:
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu/Ubuntu-Regular.ttf
+          # style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
